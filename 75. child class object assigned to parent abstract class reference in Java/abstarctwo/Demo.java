@@ -4,14 +4,14 @@ public class Demo {
 
 	public static void main(String[] args) {
 		
-		//ClassX cx = new ClassX();
-		ClassY cy = new ClassY();
-		cy.sampleA();
-		cy.sampleB();
-		cy.sampleC();
-		cy.sampleD();
-		cy.sampleE();
-
+		ClassX x = new ClassY();
+		x.sampleA();
+		x.sampleB();
+		x.sampleC();
+		x.sampleD();
+		x.sampleE();
+		//x.sampleF(); - Not possible
+		
 	}
 
 }

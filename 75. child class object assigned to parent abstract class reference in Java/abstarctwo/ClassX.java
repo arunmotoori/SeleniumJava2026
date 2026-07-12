@@ -34,6 +34,10 @@ class ClassY extends ClassX {
 	public void sampleC() {
 		System.out.println("SampleC");
 	}
+	
+	public void sampleF() {
+		System.out.println("SampleF");
+	}
 
 }
 
